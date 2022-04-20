@@ -205,5 +205,15 @@ footer ul li iframe{
     section ul li img{
         display: none;
     }
-    
+    nav input{
+        height: 30px;
+    }
+}
+@media (max-width:550px){
+    #navega{
+        width: 100vw;
+    }
+    .line1, .line2, .line3{
+    left: 80%;
+    }
 }
