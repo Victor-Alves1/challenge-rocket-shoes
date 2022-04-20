@@ -13,8 +13,11 @@
 ## Imagem do site em computador
 ![Captura da Web_20-4-2022_192437_](https://user-images.githubusercontent.com/101835324/164335184-87d833a9-8310-4dac-ae39-cb8588a07075.jpeg)
 
-## Imagem do site em tablets
-![Captura da Web_20-4-2022_19260_](https://user-images.githubusercontent.com/101835324/164335211-724076de-3769-475d-aa89-221a937058f3.jpeg)
+## Imagem do site em uma IPad Air
+![image](https://user-images.githubusercontent.com/101835324/164337343-aeb88e90-4df7-4366-ab36-bfe0b925c118.png)
 
-## Imagem do site em tablets mostrando o botão hamburguer (3tracinhos)
-![Captura da Web_20-4-2022_192623_](https://user-images.githubusercontent.com/101835324/164335232-c8b276b5-710b-4d64-889e-d5c0f6501a53.jpeg)
+## Imagem do site um IPhone 12 pro
+![image](https://user-images.githubusercontent.com/101835324/164337470-82580126-9324-406d-8ab5-de5060d61b89.png)
+
+## Imagem do menu 
+![image](https://user-images.githubusercontent.com/101835324/164337596-3c2b9e23-e6f3-4b60-896e-c0dee7690d62.png)
