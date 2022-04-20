@@ -10,15 +10,26 @@
 </head>
 <body>
     <nav>
-        <ul>
-            <li><a href="#"><img src="assets/logo.svg" alt="Ir para pagina inicial"></a></li>
-            <li><a href="#">homem</a></li>
-            <li><a href="#">mulher</a></li>
-            <li><a href="#">criança</a></li>
-            <li><a href="#"> customizar</a></li>
-            <li><label hidden for="buscador">Pesquisar produtos</label><input type="search" placeholder="Pesquisar" list="produtos" name="buscador" id="buscador"></li>
-            <li><a href="#"><img src="assets/icon-bag.svg" alt="Ir para a sacola de produtos"></a></li>
-        </ul>
+        <label class="nav-active" for="nav-bar">
+            <div class="line">
+                <div class="line1"></div>
+                <div class="line2"></div>
+                <div class="line3"></div>
+            </div>
+        </label>
+        <input type="radio" name="botão" id="nav-bar">
+            <ul id="navega">
+                <label for="EXIT">X</label>
+                <input type="radio" name="botão" id="EXIT">
+                <li><a href="#"><img src="assets/logo.svg" alt="Ir para pagina inicial"></a></li>
+                <li><a href="#">homem</a></li>
+                <li><a href="#">mulher</a></li>
+                <li><a href="#">criança</a></li>
+                <li><a href="#"> customizar</a></li>
+                <li><input aria-label="Campo de pesquisa de produtos" type="search" placeholder="Pesquisar" list="produtos" name="buscador" id="buscador"></li>
+                <li><a href="#"><img src="assets/icon-bag.svg" alt="Ir para a sacola de produtos"></a></li>
+            </ul>
+        
         <datalist id="produtos">
             <option value="Nike">Nike</option>
             <option value="Adidas">Adidas</option>
@@ -30,7 +41,7 @@
     <main>
         <aside>
             <div>
-                <h1>Tênis <br> Esportivo <br> Para Corrida <br>Top</h1>
+                <h1>Tênis Esportivo Para Corrida Top</h1>
                 <p>Esse tênis tem o intuito de te deixar ainda mais fitness, focado, e musculoso.</p>
                 <h2>R$ 1.000,00</h2>
                 <a href="#">Comprar</a>
@@ -53,10 +64,9 @@
             <li><a href="https://www.youtube.com/">Youtube</a></li>
             <li><a href="https://twitter.com/i/flow/login?input_flow_data=%7B%22requested_variant%22%3A%22eyJsYW5nIjoicHQifQ%3D%3D%22%7D">Twitter</a></li>
             <li class="explorar"><a href="#">
-                <div class="explorarmais">Explore mais</div>
+                <div class="explorarmais">Explore mais <img src="assets/icon-arrow.svg" alt=""></div>
             </a></li>
         </ul>
     </footer>
-    
 </body>
 </html>
