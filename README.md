@@ -3,7 +3,11 @@
  Site inteiramente feito com HTML5 e CSS3
  Prezando pela semântica e a responsividade do codigo
  
- Elementos utilizados no site
+ Elementos utilizados no site:
+ 
+![icons8-html-5-48](https://user-images.githubusercontent.com/101835324/165111872-1db50d31-ff08-4c68-8f8d-372172a3e58d.png)
+![icons8-css3-48](https://user-images.githubusercontent.com/101835324/165111999-a12764fb-a618-4c85-9fc1-8a9fd68e4db0.png)
+
 - [X] Ajustar a diferentes tamanhso de tela
 - [X] Barra de navegação responsiva que se transforma em botão hamburguer(3 tracinhos), usualmente utilizado para mobile
 - [X] Sugestão de produtos na área de pesquisa
